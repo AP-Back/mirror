@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
    
 env:
-  GitHubMail: "arkamtg.pramanik@gmail.com"
-  GitHubName: "AP-XD" 
+  GitHubMail: "mrprime2911@gmail.com"
+  GitHubName: "AP-back" 
 
 jobs:
   build:
